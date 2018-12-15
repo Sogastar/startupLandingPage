@@ -1,3 +1,8 @@
 body{
 	background-image: url(Image1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+button{
+	background-color:red;
 }
