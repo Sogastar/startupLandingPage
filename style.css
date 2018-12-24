@@ -5,4 +5,14 @@ body{
 }
 button{
 	background-color:red;
+	position: relative;
+	left: 600px;
+	top: 300px;
+	color:white;
+}
+b{
+	position: relative;
+	left:300px;
+	top: 300px;
+	color: white;
 }
